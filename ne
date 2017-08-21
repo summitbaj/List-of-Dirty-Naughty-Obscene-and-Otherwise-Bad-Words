@@ -106,3 +106,6 @@ chhol
 chhakka
 hijada
 chhattis
+murkatto/mudkatto
+Boksi
+kichkanya
